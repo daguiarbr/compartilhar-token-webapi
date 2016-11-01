@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmissorToken", "EmissorToken\EmissorToken.csproj", "{8A656C70-27E8-4F3E-B549-76D524936C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumidorToken", "ConsumidorToken\ConsumidorToken.csproj", "{2224F49F-F503-4201-89F2-07E9915A997A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A656C70-27E8-4F3E-B549-76D524936C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A656C70-27E8-4F3E-B549-76D524936C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A656C70-27E8-4F3E-B549-76D524936C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A656C70-27E8-4F3E-B549-76D524936C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2224F49F-F503-4201-89F2-07E9915A997A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2224F49F-F503-4201-89F2-07E9915A997A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2224F49F-F503-4201-89F2-07E9915A997A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2224F49F-F503-4201-89F2-07E9915A997A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
